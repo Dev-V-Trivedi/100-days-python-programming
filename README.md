@@ -10,8 +10,8 @@ This repository contains all the daily exercises, notes, and mini-projects I com
 - **Level:** Beginner to Intermediate
 
 ## 📅 Timeline
-- **Start Date:** [Your Start Date]
-- **Expected End Date:** [Optional]
+- **Start Date:** 20th April 2025
+- **Expected End Date:** 28th July 2025
 
 ## 🧠 What You'll Find Here
 - ✅ Daily Python exercises
